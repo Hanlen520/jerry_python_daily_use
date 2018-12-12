@@ -1,0 +1,4 @@
+2018-12-12 10:47:17,493 - [log.py: 18] -INFO: test log start :
+2018-12-12 10:48:34,767 - [log.py: 18] -INFO: test log start :
+2018-12-12 10:48:34,768 - [log.py: 19] -ERROR: test log error : this is en error message!
+2018-12-12 10:48:34,769 - [log.py: 20] -INFO: test log end :
